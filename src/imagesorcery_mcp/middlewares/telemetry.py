@@ -1,13 +1,13 @@
 import logging
 import sys
 from importlib.metadata import version
+from pathlib import Path
 from typing import Any
 
 from fastmcp.server.middleware import CallNext, Middleware, MiddlewareContext
 
 from imagesorcery_mcp.config import get_config
 from imagesorcery_mcp.telemetry_amplitude import amplitude_handler
-from pathlib import Path
 from imagesorcery_mcp.telemetry_posthog import posthog_handler
 
 
