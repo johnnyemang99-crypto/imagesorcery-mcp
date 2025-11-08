@@ -1,4 +1,4 @@
-johnnyemang99# 🪄 ImageSorcery MCP
+#johnnyemang99 🪄 ImageSorcery MCP
 **ComputerVision-based 🪄 sorcery of local image recognition and editing tools for AI assistants**
 
 Official website: [imagesorcery.net](https://imagesorcery.net?utm_source=readme)
